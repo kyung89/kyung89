@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm <a href="https://iamkyung.netlify.app/"  target="_blank">Kyung Lim Ock</a> 👋</h1>
     
-<h3 align="center">I'm a FrontEnd Engineer and also interested in Artificial Intelligence and Robotics.</h3>
+<h3 align="center">I'm a Front-End Engineer and also interested in Artificial Intelligence and Robotics.</h3>
 
-<h3 align="center">Studying BackEnd...To be a Full-Stack Engineer.</h3>
+<h3 align="center">Studying Back-End...To be a Full-Stack Engineer.</h3>
 
 
 
