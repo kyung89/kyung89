@@ -2,7 +2,7 @@
     
 <h3 align="center">I'm a FrontEnd Engineer and also interested in Artificial Intelligence and Robotics.</h3>
 
-
+<h3 align="center">Studying BackEnd...To be a Full-Stack Engineer.</h3>
 
 
 
