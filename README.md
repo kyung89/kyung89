@@ -21,7 +21,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyung89&layout=compact&theme=dark" />
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=twobeercat" />
 </div>
 
 <!--
